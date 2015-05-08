@@ -1,0 +1,10 @@
+文件系统                 容量  已用  可用 已用% 挂载点
+/dev/mapper/fedora-root   31G   16G   14G   53% /
+devtmpfs                 1.8G     0  1.8G    0% /dev
+tmpfs                    1.8G   19M  1.8G    2% /dev/shm
+tmpfs                    1.8G  1.1M  1.8G    1% /run
+tmpfs                    1.8G     0  1.8G    0% /sys/fs/cgroup
+tmpfs                    1.8G  544K  1.8G    1% /tmp
+/dev/mapper/fedora-home   15G  9.5G  4.7G   68% /home
+/dev/sda3                477M  120M  329M   27% /boot
+/dev/sda6                 79G   37G   42G   47% /run/media/yj/data
